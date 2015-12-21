@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\bin\Debug\04.Linear-and-Binary-Search.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\bin\Debug\04.Linear-and-Binary-Search.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\bin\Debug\04.Linear-and-Binary-Search.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\obj\Debug\04.Linear-and-Binary-Search.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\obj\Debug\04.Linear-and-Binary-Search.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\04.Linear-and-Binary-Search\obj\Debug\04.Linear-and-Binary-Search.pdb

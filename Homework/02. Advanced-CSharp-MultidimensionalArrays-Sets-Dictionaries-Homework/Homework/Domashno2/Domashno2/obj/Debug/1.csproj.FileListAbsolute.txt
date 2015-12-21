@@ -1,0 +1,12 @@
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\bin\Debug\Domashno2.exe.config
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\obj\Debug\Domashno2.exe
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\obj\Debug\Domashno2.pdb
+E:\VS\16.09\Domashno2\Domashno2\bin\Debug\Domashno2.exe.config
+E:\VS\16.09\Domashno2\Domashno2\obj\Debug\Domashno2.exe
+E:\VS\16.09\Domashno2\Domashno2\obj\Debug\Domashno2.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\bin\Debug\Domashno2.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\obj\Debug\Domashno2.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\obj\Debug\Domashno2.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\bin\Debug\Domashno2.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\bin\Debug\Domashno2.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\Domashno2\obj\Debug\1.csprojResolveAssemblyReference.cache

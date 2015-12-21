@@ -1,0 +1,8 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\bin\Debug\09.WeakStudents.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\bin\Debug\09.WeakStudents.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\bin\Debug\09.WeakStudents.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\bin\Debug\01-ClassStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\bin\Debug\01-ClassStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\obj\Debug\09.WeakStudents.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\obj\Debug\09.WeakStudents.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\09.WeakStudents\obj\Debug\09.WeakStudents.pdb

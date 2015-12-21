@@ -1,0 +1,15 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\bin\Debug\StudentsByAge.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\bin\Debug\ClassStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsByAge\obj\Debug\StudentsByAge.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem04\bin\Debug\Problem04.exe.config
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem04\bin\Debug\Problem04.exe
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem04\bin\Debug\Problem04.pdb
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem04\obj\Debug\Problem04.exe
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem04\obj\Debug\Problem04.pdb

@@ -1,0 +1,11 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\StudentsEnrolledIn2014.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\StudentsEnrolledIn2014.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\StudentsEnrolledIn2014.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\obj\Debug\StudentsEnrolledIn2014.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\obj\Debug\StudentsEnrolledIn2014.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\StudentsEnrolledIn2014\obj\Debug\StudentsEnrolledIn2014.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsEnrolledIn2014\bin\Debug\StudentsEnrolledIn2014.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsEnrolledIn2014\obj\Debug\StudentsEnrolledIn2014.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\StudentsEnrolledIn2014\obj\Debug\StudentsEnrolledIn2014.pdb

@@ -1,0 +1,15 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.exe.config
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.pdb
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.pdb
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.exe.config
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.exe
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.pdb
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.exe
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.pdb
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\bin\Debug\Pr05SlicingFile.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr05SlicingFile\obj\Debug\Pr05SlicingFile.pdb

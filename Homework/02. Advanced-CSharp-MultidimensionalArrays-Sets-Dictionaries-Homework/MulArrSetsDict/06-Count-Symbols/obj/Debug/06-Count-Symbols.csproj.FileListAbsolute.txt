@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\bin\Debug\06-Count-Symbols.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\bin\Debug\06-Count-Symbols.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\bin\Debug\06-Count-Symbols.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\obj\Debug\06-Count-Symbols.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\obj\Debug\06-Count-Symbols.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\06-Count-Symbols\obj\Debug\06-Count-Symbols.pdb

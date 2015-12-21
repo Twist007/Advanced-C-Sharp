@@ -1,0 +1,2 @@
+C:\Users\pc1\Desktop\HomeworkMethods\Problem6.NumberCalculations\bin\Debug\Problem6.NumberCalculations.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem6.NumberCalculations\bin\Debug\Problem6.NumberCalculations.exe.config

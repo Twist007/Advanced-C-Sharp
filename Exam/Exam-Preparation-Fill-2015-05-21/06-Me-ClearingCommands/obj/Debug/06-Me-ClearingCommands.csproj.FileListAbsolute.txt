@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\bin\Debug\06-Me-ClearingCommands.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\bin\Debug\06-Me-ClearingCommands.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\bin\Debug\06-Me-ClearingCommands.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\obj\Debug\06-Me-ClearingCommands.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\obj\Debug\06-Me-ClearingCommands.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Me-ClearingCommands\obj\Debug\06-Me-ClearingCommands.pdb

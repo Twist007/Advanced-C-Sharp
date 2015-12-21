@@ -1,0 +1,9 @@
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\obj\Debug\01.BiggerNumber.csprojResolveAssemblyReference.cache
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\bin\Debug\MethodsHomework.exe.config
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\bin\Debug\MethodsHomework.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\bin\Debug\MethodsHomework.pdb
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\obj\Debug\MethodsHomework.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\MethodsHomework\obj\Debug\MethodsHomework.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\MethodsHomework\bin\Debug\MethodsHomework.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\MethodsHomework\obj\Debug\MethodsHomework.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\MethodsHomework\obj\Debug\MethodsHomework.pdb

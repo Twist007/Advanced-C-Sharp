@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\bin\Debug\01.Pyramid.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\bin\Debug\01.Pyramid.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\bin\Debug\01.Pyramid.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\obj\Debug\01.Pyramid.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\obj\Debug\01.Pyramid.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\01.Pyramid\obj\Debug\01.Pyramid.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\bin\Debug\03-Matrix-Shuff.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\bin\Debug\03-Matrix-Shuff.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\bin\Debug\03-Matrix-Shuff.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\obj\Debug\03-Matrix-Shuff.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\obj\Debug\03-Matrix-Shuff.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\03-Matrix-Shuff\obj\Debug\03-Matrix-Shuff.csprojResolveAssemblyReference.cache

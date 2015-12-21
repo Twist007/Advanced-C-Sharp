@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\bin\Debug\01-Stuck-Numbers.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\bin\Debug\01-Stuck-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\bin\Debug\01-Stuck-Numbers.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\obj\Debug\01-Stuck-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\obj\Debug\01-Stuck-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-26\01-Stuck-Numbers\obj\Debug\01-Stuck-Numbers.pdb

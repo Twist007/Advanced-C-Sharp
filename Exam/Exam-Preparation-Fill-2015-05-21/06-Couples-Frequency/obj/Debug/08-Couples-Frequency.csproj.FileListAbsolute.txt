@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\bin\Debug\06-Couples-Frequency.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\bin\Debug\06-Couples-Frequency.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\bin\Debug\06-Couples-Frequency.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\obj\Debug\08-Couples-Frequency.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\obj\Debug\06-Couples-Frequency.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\06-Couples-Frequency\obj\Debug\06-Couples-Frequency.pdb

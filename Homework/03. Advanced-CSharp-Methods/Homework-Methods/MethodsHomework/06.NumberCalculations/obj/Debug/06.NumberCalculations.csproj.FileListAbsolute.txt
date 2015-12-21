@@ -1,0 +1,9 @@
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.pdb
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.csprojResolveAssemblyReference.cache
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb

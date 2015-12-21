@@ -1,0 +1,1 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\02-LineNumbers\bin\Debug\02-LineNumbers.exe.config

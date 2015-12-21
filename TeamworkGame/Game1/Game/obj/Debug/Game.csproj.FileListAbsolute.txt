@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\bin\Debug\Game.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\bin\Debug\Game.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\bin\Debug\Game.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\obj\Debug\Game.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\Game\Game\obj\Debug\Game.pdb

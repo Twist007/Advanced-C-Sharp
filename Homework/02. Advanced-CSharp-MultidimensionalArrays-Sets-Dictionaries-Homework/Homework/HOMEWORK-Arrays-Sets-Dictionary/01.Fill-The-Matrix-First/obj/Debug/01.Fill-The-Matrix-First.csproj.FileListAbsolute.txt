@@ -1,0 +1,9 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\bin\Debug\01.Fill-The-Matrix-First.exe.config
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\bin\Debug\01.Fill-The-Matrix-First.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\bin\Debug\01.Fill-The-Matrix-First.pdb
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\obj\Debug\01.Fill-The-Matrix-First.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\obj\Debug\01.Fill-The-Matrix-First.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\obj\Debug\01.Fill-The-Matrix-First.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\bin\Debug\01.Fill-The-Matrix-First.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\obj\Debug\01.Fill-The-Matrix-First.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\01.Fill-The-Matrix-First\obj\Debug\01.Fill-The-Matrix-First.pdb

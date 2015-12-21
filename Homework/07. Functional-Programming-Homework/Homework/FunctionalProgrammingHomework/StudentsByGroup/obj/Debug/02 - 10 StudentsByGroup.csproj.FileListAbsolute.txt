@@ -1,0 +1,11 @@
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.exe
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.pdb
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\ClassStudents.dll
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\ClassStudents.pdb
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\02 - 10 StudentsByGroup.csprojResolveAssemblyReference.cache
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.pdb

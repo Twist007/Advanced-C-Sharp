@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\ReadingPrintingStrings\bin\Debug\ReadingPrintingStrings.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\ReadingPrintingStrings\obj\Debug\02. Reading and Printing Strings.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\ReadingPrintingStrings\obj\Debug\ReadingPrintingStrings.pdb

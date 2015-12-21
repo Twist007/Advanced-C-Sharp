@@ -1,0 +1,2 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr08FullDirectoryTraversal\bin\Debug\Pr08FullDirectoryTraversal.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr08FullDirectoryTraversal\bin\Debug\Pr08FullDirectoryTraversal.exe.config

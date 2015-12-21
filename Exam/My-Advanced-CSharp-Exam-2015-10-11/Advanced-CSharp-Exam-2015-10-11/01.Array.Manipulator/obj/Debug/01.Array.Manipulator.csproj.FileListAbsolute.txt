@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\bin\Debug\01.Array.Manipulator.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\bin\Debug\01.Array.Manipulator.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\bin\Debug\01.Array.Manipulator.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\obj\Debug\01.Array.Manipulator.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\obj\Debug\01.Array.Manipulator.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\01.Array.Manipulator\obj\Debug\01.Array.Manipulator.pdb

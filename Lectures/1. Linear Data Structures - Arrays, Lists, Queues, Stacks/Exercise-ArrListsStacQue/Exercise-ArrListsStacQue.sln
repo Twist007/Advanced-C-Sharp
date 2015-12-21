@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SortArrayofBubbleSort", "01.SortArrayofBubbleSort\01.SortArrayofBubbleSort.csproj", "{64140AFB-AF5E-4132-ADF5-5568BD12E438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Join Lists", "02.Join Lists\02.Join Lists.csproj", "{AA7FD6B8-DDA4-4F1F-A6D1-035186A21DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64140AFB-AF5E-4132-ADF5-5568BD12E438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64140AFB-AF5E-4132-ADF5-5568BD12E438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64140AFB-AF5E-4132-ADF5-5568BD12E438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64140AFB-AF5E-4132-ADF5-5568BD12E438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA7FD6B8-DDA4-4F1F-A6D1-035186A21DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA7FD6B8-DDA4-4F1F-A6D1-035186A21DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA7FD6B8-DDA4-4F1F-A6D1-035186A21DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA7FD6B8-DDA4-4F1F-A6D1-035186A21DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

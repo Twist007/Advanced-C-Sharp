@@ -1,0 +1,6 @@
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\bin\Debug\Domashno2.exe.config
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\bin\Debug\Domashno2.exe
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\bin\Debug\Domashno2.pdb
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\obj\Debug\Domashno2.csprojResolveAssemblyReference.cache
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\obj\Debug\Domashno2.exe
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\Domashno2\obj\Debug\Domashno2.pdb

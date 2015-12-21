@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\bin\Debug\08.Lego-Blocks.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\bin\Debug\08.Lego-Blocks.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\bin\Debug\08.Lego-Blocks.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\obj\Debug\08.Lego-Blocks.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\obj\Debug\08.Lego-Blocks.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\08.Lego-Blocks\obj\Debug\08.Lego-Blocks.pdb

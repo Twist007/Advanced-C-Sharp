@@ -1,0 +1,12 @@
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe.config
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.pdb
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.csprojResolveAssemblyReference.cache
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\bin\Debug\1.FillTheMatrix.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\1.FillTheMatrix\obj\Debug\1.FillTheMatrix.csprojResolveAssemblyReference.cache

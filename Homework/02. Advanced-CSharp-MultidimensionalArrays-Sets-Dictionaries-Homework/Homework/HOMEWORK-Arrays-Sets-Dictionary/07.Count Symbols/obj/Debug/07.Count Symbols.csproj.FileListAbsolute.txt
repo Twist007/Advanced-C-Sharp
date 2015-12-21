@@ -1,0 +1,8 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\bin\Debug\07.Count Symbols.exe.config
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\bin\Debug\07.Count Symbols.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\bin\Debug\07.Count Symbols.pdb
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\obj\Debug\07.Count Symbols.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\obj\Debug\07.Count Symbols.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\bin\Debug\07.Count Symbols.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\obj\Debug\07.Count Symbols.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\07.Count Symbols\obj\Debug\07.Count Symbols.pdb

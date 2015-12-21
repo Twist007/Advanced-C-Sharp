@@ -1,0 +1,8 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\bin\Debug\08ExcellentStudent.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\bin\Debug\08ExcellentStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\bin\Debug\08ExcellentStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\bin\Debug\01-ClassStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\bin\Debug\01-ClassStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\obj\Debug\08ExcellentStudent.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\obj\Debug\08ExcellentStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\08ExcellentStudent\obj\Debug\08ExcellentStudent.pdb

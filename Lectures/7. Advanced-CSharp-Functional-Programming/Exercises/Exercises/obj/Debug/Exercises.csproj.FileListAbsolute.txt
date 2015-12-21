@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\bin\Debug\Exercises.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\bin\Debug\Exercises.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\bin\Debug\Exercises.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\obj\Debug\Exercises.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\obj\Debug\Exercises.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\7. Advanced-CSharp-Functional-Programming\Exercises\Exercises\obj\Debug\Exercises.pdb

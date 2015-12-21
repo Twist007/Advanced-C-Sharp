@@ -1,0 +1,9 @@
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.exe.config
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.pdb
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.csprojResolveAssemblyReference.cache
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\5.CollectTheCoins\bin\Debug\5.CollectTheCoins.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\5.CollectTheCoins\obj\Debug\5.CollectTheCoins.pdb

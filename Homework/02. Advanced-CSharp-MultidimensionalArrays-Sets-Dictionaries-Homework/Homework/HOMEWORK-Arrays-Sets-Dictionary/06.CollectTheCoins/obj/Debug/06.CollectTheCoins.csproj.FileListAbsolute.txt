@@ -1,0 +1,9 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\bin\Debug\06.CollectTheCoins.exe.config
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\bin\Debug\06.CollectTheCoins.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\bin\Debug\06.CollectTheCoins.pdb
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\obj\Debug\06.CollectTheCoins.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\obj\Debug\06.CollectTheCoins.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\obj\Debug\06.CollectTheCoins.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\bin\Debug\06.CollectTheCoins.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\obj\Debug\06.CollectTheCoins.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\06.CollectTheCoins\obj\Debug\06.CollectTheCoins.pdb

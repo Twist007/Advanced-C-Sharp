@@ -1,0 +1,5 @@
+C:\Users\pc1\Desktop\HomeworkMethods\Problem3.LargerThanNeighbours\bin\Debug\Problem3.LargerThanNeighbours.exe.config
+C:\Users\pc1\Desktop\HomeworkMethods\Problem3.LargerThanNeighbours\bin\Debug\Problem3.LargerThanNeighbours.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem3.LargerThanNeighbours\bin\Debug\Problem3.LargerThanNeighbours.pdb
+C:\Users\pc1\Desktop\HomeworkMethods\Problem3.LargerThanNeighbours\obj\Debug\Problem3.LargerThanNeighbours.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem3.LargerThanNeighbours\obj\Debug\Problem3.LargerThanNeighbours.pdb

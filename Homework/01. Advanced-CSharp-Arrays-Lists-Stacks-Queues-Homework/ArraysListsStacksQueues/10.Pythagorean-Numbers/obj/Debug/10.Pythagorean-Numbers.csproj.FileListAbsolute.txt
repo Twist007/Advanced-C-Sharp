@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\bin\Debug\10.Pythagorean-Numbers.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\bin\Debug\10.Pythagorean-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\bin\Debug\10.Pythagorean-Numbers.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\obj\Debug\10.Pythagorean-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\obj\Debug\10.Pythagorean-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\10.Pythagorean-Numbers\obj\Debug\10.Pythagorean-Numbers.pdb

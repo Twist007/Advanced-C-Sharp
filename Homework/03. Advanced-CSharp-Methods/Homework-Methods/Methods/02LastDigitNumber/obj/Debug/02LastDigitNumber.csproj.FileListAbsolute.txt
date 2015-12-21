@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practice\Methods\02LastDigitNumber\bin\Debug\02LastDigitNumber.exe.config
+C:\Users\User\Desktop\Practice\Methods\02LastDigitNumber\bin\Debug\02LastDigitNumber.exe
+C:\Users\User\Desktop\Practice\Methods\02LastDigitNumber\bin\Debug\02LastDigitNumber.pdb
+C:\Users\User\Desktop\Practice\Methods\02LastDigitNumber\obj\Debug\02LastDigitNumber.exe
+C:\Users\User\Desktop\Practice\Methods\02LastDigitNumber\obj\Debug\02LastDigitNumber.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\02LastDigitNumber\bin\Debug\02LastDigitNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\02LastDigitNumber\obj\Debug\02LastDigitNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\02LastDigitNumber\obj\Debug\02LastDigitNumber.pdb

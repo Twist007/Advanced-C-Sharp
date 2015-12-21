@@ -1,0 +1,8 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\bin\Debug\02-StudentsbyGroup.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\bin\Debug\02-StudentsbyGroup.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\bin\Debug\02-StudentsbyGroup.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\bin\Debug\01-ClassStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\bin\Debug\01-ClassStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\obj\Debug\02-StudentsbyGroup.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\obj\Debug\02-StudentsbyGroup.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\02-StudentsbyGroup\obj\Debug\02-StudentsbyGroup.pdb

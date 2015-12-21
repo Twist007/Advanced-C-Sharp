@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\bin\Debug\01-MatchFullName.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\bin\Debug\01-MatchFullName.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\bin\Debug\01-MatchFullName.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\obj\Debug\01-MatchFullName.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\obj\Debug\01-MatchFullName.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\5. Advanced-CSharp-Regular-Expressions\Exercise\01-MatchFullName\obj\Debug\01-MatchFullName.pdb

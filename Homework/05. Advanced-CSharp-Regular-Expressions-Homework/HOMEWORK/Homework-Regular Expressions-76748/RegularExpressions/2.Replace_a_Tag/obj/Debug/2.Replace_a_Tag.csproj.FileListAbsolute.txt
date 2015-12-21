@@ -1,0 +1,5 @@
+D:\CSharp\Advanced\RegularExpressions\2.Replace_a_Tag\bin\Debug\2.Replace_a_Tag.exe.config
+D:\CSharp\Advanced\RegularExpressions\2.Replace_a_Tag\bin\Debug\2.Replace_a_Tag.exe
+D:\CSharp\Advanced\RegularExpressions\2.Replace_a_Tag\bin\Debug\2.Replace_a_Tag.pdb
+D:\CSharp\Advanced\RegularExpressions\2.Replace_a_Tag\obj\Debug\2.Replace_a_Tag.exe
+D:\CSharp\Advanced\RegularExpressions\2.Replace_a_Tag\obj\Debug\2.Replace_a_Tag.pdb

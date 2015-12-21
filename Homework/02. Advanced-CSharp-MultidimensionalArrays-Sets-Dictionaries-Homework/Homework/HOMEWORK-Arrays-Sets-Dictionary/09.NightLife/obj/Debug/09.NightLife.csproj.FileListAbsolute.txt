@@ -1,0 +1,2 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\09.NightLife\bin\Debug\09.NightLife.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\09.NightLife\bin\Debug\09.NightLife.exe.config

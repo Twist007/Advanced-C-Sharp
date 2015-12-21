@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\obj\Debug\MatrixMultiplication.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Multidimensional-Arrays-Sets-Dictionaries\Exercise\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb

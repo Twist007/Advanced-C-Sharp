@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\02-String-Lenght\bin\Debug\02-String-Lenght.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\02-String-Lenght\bin\Debug\02-String-Lenght.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\02-String-Lenght\bin\Debug\02-String-Lenght.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\02-String-Lenght\obj\Debug\02-String-Lenght.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\02-String-Lenght\obj\Debug\02-String-Lenght.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\bin\Debug\03.Shmoogle.Counter.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\bin\Debug\03.Shmoogle.Counter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\bin\Debug\03.Shmoogle.Counter.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\obj\Debug\03.Shmoogle.Counter.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\obj\Debug\03.Shmoogle.Counter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\03.Shmoogle.Counter\obj\Debug\03.Shmoogle.Counter.pdb

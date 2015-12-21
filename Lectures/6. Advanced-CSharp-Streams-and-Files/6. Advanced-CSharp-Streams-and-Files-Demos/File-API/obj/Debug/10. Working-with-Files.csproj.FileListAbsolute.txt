@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\bin\Debug\File-API.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\obj\Debug\File-API.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\File-API\obj\Debug\File-API.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-API\bin\Debug\File-API.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-API\obj\Debug\File-API.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\File-API\obj\Debug\File-API.pdb

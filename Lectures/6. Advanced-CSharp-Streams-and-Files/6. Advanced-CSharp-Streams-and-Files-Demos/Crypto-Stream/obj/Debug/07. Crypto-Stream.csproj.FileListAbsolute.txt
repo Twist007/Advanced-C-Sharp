@@ -1,0 +1,6 @@
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\bin\Debug\Crypto-Stream.exe.config
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\obj\Debug\Crypto-Stream.exe
+C:\Users\Jamal\Documents\Visual Studio 2013\Projects\StreamsSandbox\Crypto-Stream\obj\Debug\Crypto-Stream.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\Crypto-Stream\bin\Debug\Crypto-Stream.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\Crypto-Stream\obj\Debug\Crypto-Stream.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\Crypto-Stream\obj\Debug\Crypto-Stream.pdb

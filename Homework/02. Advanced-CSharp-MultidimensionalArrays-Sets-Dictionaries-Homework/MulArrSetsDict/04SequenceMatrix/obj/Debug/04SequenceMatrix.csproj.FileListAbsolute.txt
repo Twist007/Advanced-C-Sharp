@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\bin\Debug\04SequenceMatrix.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\bin\Debug\04SequenceMatrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\bin\Debug\04SequenceMatrix.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\obj\Debug\04SequenceMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\obj\Debug\04SequenceMatrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\04SequenceMatrix\obj\Debug\04SequenceMatrix.pdb

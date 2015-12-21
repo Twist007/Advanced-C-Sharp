@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Sort Array of Numbers", "Problem 1. Sort Array of Numbers\Problem 1. Sort Array of Numbers.csproj", "{65938B28-C789-4E88-B08A-A9B51B9E5AB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3.CategorizeNumbersMinMaxAverage", "Problem 3.CategorizeNumbersMinMaxAverage\Problem 3.CategorizeNumbersMinMaxAverage.csproj", "{40F92055-A6F2-4753-B188-42C0DA9800E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 4. Sequences of Equal Strings", "Problem 4. Sequences of Equal Strings\Problem 4. Sequences of Equal Strings.csproj", "{66580687-06DD-497A-92A6-DF0839CBC2C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65938B28-C789-4E88-B08A-A9B51B9E5AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65938B28-C789-4E88-B08A-A9B51B9E5AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65938B28-C789-4E88-B08A-A9B51B9E5AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65938B28-C789-4E88-B08A-A9B51B9E5AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40F92055-A6F2-4753-B188-42C0DA9800E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F92055-A6F2-4753-B188-42C0DA9800E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F92055-A6F2-4753-B188-42C0DA9800E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F92055-A6F2-4753-B188-42C0DA9800E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66580687-06DD-497A-92A6-DF0839CBC2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66580687-06DD-497A-92A6-DF0839CBC2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66580687-06DD-497A-92A6-DF0839CBC2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66580687-06DD-497A-92A6-DF0839CBC2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

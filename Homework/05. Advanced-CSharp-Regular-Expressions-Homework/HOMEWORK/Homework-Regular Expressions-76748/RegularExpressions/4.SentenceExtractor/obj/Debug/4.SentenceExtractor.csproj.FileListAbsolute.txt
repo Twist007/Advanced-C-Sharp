@@ -1,0 +1,5 @@
+D:\CSharp\Advanced\RegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.exe.config
+D:\CSharp\Advanced\RegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.exe
+D:\CSharp\Advanced\RegularExpressions\4.SentenceExtractor\bin\Debug\4.SentenceExtractor.pdb
+D:\CSharp\Advanced\RegularExpressions\4.SentenceExtractor\obj\Debug\4.SentenceExtractor.exe
+D:\CSharp\Advanced\RegularExpressions\4.SentenceExtractor\obj\Debug\4.SentenceExtractor.pdb

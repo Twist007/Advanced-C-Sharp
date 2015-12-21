@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\bin\Debug\ExerciseCleanUptheMess.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\bin\Debug\ExerciseCleanUptheMess.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\bin\Debug\ExerciseCleanUptheMess.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\obj\Debug\ExerciseCleanUptheMess.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\obj\Debug\ExerciseCleanUptheMess.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\6. Advanced-CSharp-Streams-and-Files\6. Advanced-CSharp-Streams-and-Files-Demos\ExerciseCleanUptheMess\obj\Debug\ExerciseCleanUptheMess.pdb

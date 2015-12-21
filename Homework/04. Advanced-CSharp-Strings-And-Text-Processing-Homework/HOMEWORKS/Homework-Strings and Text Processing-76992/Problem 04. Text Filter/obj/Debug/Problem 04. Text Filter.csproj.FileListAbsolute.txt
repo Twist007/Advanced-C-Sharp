@@ -1,0 +1,9 @@
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\bin\Debug\Problem_04.Text_Filter.exe.config
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\bin\Debug\Problem_04.Text_Filter.exe
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\bin\Debug\Problem_04.Text_Filter.pdb
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\obj\Debug\Problem 04. Text Filter.csprojResolveAssemblyReference.cache
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\obj\Debug\Problem_04.Text_Filter.exe
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 04. Text Filter\obj\Debug\Problem_04.Text_Filter.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 04. Text Filter\bin\Debug\Problem_04.Text_Filter.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 04. Text Filter\obj\Debug\Problem_04.Text_Filter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 04. Text Filter\obj\Debug\Problem_04.Text_Filter.pdb

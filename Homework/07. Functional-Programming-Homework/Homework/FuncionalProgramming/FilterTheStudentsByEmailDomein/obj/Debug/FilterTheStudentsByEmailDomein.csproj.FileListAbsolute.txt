@@ -1,0 +1,11 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\FilterTheStudentsByEmailDomein.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\FilterTheStudentsByEmailDomein.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\FilterTheStudentsByEmailDomein.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\obj\Debug\FilterTheStudentsByEmailDomein.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\obj\Debug\FilterTheStudentsByEmailDomein.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterTheStudentsByEmailDomein\obj\Debug\FilterTheStudentsByEmailDomein.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterTheStudentsByEmailDomein\bin\Debug\FilterTheStudentsByEmailDomein.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterTheStudentsByEmailDomein\obj\Debug\FilterTheStudentsByEmailDomein.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterTheStudentsByEmailDomein\obj\Debug\FilterTheStudentsByEmailDomein.pdb

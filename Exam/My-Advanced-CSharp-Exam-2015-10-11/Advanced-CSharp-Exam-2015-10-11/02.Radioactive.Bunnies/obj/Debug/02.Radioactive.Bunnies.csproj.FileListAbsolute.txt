@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\bin\Debug\02.Radioactive.Bunnies.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\bin\Debug\02.Radioactive.Bunnies.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\bin\Debug\02.Radioactive.Bunnies.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\obj\Debug\02.Radioactive.Bunnies.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\obj\Debug\02.Radioactive.Bunnies.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-10-11\Advanced-CSharp-Exam-2015-10-11\02.Radioactive.Bunnies\obj\Debug\02.Radioactive.Bunnies.pdb

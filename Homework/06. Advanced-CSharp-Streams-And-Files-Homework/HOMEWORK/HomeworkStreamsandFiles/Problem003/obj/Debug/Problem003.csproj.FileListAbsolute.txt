@@ -1,0 +1,6 @@
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\bin\Debug\Problem003.exe.config
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\bin\Debug\Problem003.exe
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\bin\Debug\Problem003.pdb
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\obj\Debug\Problem003.csprojResolveAssemblyReference.cache
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\obj\Debug\Problem003.exe
+C:\Users\sasho\documents\visual studio 2013\Projects\HomeworkStreamsandFiles\Problem003\obj\Debug\Problem003.pdb

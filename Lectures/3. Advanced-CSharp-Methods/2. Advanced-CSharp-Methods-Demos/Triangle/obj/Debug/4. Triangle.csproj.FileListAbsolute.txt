@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Triangle\bin\Debug\Triangle.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Triangle\bin\Debug\Triangle.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\4. Triangle.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\Triangle.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Triangle\obj\Debug\Triangle.pdb

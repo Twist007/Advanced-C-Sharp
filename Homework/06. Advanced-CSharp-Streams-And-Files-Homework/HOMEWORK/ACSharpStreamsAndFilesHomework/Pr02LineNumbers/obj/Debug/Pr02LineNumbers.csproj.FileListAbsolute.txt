@@ -1,0 +1,8 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\bin\Debug\Pr02LineNumbers.exe.config
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\bin\Debug\Pr02LineNumbers.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\bin\Debug\Pr02LineNumbers.pdb
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\obj\Debug\Pr02LineNumbers.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\obj\Debug\Pr02LineNumbers.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\bin\Debug\Pr02LineNumbers.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\obj\Debug\Pr02LineNumbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr02LineNumbers\obj\Debug\Pr02LineNumbers.pdb

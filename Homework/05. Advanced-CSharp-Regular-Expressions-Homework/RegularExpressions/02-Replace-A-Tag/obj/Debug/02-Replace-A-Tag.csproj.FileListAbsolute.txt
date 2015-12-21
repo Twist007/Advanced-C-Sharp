@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\bin\Debug\02-Replace-A-Tag.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\bin\Debug\02-Replace-A-Tag.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\bin\Debug\02-Replace-A-Tag.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\obj\Debug\02-Replace-A-Tag.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\obj\Debug\02-Replace-A-Tag.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\02-Replace-A-Tag\obj\Debug\02-Replace-A-Tag.pdb

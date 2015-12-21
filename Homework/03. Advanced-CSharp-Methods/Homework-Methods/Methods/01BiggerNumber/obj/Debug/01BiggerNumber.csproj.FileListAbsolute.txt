@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.pdb
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+C:\Users\User\Desktop\Practice\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\Methods\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb

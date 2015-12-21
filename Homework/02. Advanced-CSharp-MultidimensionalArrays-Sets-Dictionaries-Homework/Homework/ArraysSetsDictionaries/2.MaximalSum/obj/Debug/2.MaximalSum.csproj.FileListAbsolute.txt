@@ -1,0 +1,9 @@
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\bin\Debug\2.MaximalSum.exe.config
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\bin\Debug\2.MaximalSum.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\bin\Debug\2.MaximalSum.pdb
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\obj\Debug\2.MaximalSum.csprojResolveAssemblyReference.cache
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\obj\Debug\2.MaximalSum.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\2.MaximalSum\obj\Debug\2.MaximalSum.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\2.MaximalSum\bin\Debug\2.MaximalSum.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\2.MaximalSum\obj\Debug\2.MaximalSum.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\2.MaximalSum\obj\Debug\2.MaximalSum.pdb

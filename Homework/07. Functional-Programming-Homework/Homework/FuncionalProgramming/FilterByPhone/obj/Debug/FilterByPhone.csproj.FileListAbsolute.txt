@@ -1,0 +1,11 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\bin\Debug\FilterByPhone.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\bin\Debug\FilterByPhone.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\bin\Debug\FilterByPhone.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\obj\Debug\FilterByPhone.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\obj\Debug\FilterByPhone.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\FilterByPhone\obj\Debug\FilterByPhone.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterByPhone\bin\Debug\FilterByPhone.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterByPhone\obj\Debug\FilterByPhone.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\FilterByPhone\obj\Debug\FilterByPhone.pdb

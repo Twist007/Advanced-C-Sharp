@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\bin\Debug\exercisesLab.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\bin\Debug\exercisesLab.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\bin\Debug\exercisesLab.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\obj\Debug\exercisesLab.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\obj\Debug\exercisesLab.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\exercisesLab\exercisesLab\obj\Debug\exercisesLab.pdb

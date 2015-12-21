@@ -1,0 +1,8 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\bin\Debug\EnrolledIn2014.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\bin\Debug\EnrolledIn2014.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\bin\Debug\EnrolledIn2014.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\bin\Debug\01-ClassStudent.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\bin\Debug\01-ClassStudent.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\obj\Debug\EnrolledIn2014.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\obj\Debug\EnrolledIn2014.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\7. Functional-Programming-Homework\FunctionalProgram\EnrolledIn2014\obj\Debug\EnrolledIn2014.pdb

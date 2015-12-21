@@ -1,0 +1,8 @@
+C:\Users\pc1\Desktop\HomeworkMethods\Problem2.LastDigitOfNumber\bin\Debug\Problem2.LastDigitOfNumber.exe.config
+C:\Users\pc1\Desktop\HomeworkMethods\Problem2.LastDigitOfNumber\bin\Debug\Problem2.LastDigitOfNumber.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem2.LastDigitOfNumber\bin\Debug\Problem2.LastDigitOfNumber.pdb
+C:\Users\pc1\Desktop\HomeworkMethods\Problem2.LastDigitOfNumber\obj\Debug\Problem2.LastDigitOfNumber.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem2.LastDigitOfNumber\obj\Debug\Problem2.LastDigitOfNumber.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem2.LastDigitOfNumber\bin\Debug\Problem2.LastDigitOfNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem2.LastDigitOfNumber\obj\Debug\Problem2.LastDigitOfNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem2.LastDigitOfNumber\obj\Debug\Problem2.LastDigitOfNumber.pdb

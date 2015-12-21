@@ -1,0 +1,9 @@
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.pdb
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.exe
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.pdb
+E:\Softuni\1-Advanced C#\2-Многомерни масиви, речници, множества\ArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\4.SequenceInMatrix\bin\Debug\4.SequenceInMatrix.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\ArraysSetsDictionaries\4.SequenceInMatrix\obj\Debug\4.SequenceInMatrix.pdb

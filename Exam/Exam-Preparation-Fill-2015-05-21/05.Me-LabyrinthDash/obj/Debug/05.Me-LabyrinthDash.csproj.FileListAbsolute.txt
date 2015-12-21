@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\bin\Debug\05.Me-LabyrinthDash.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\bin\Debug\05.Me-LabyrinthDash.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\bin\Debug\05.Me-LabyrinthDash.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\obj\Debug\05.Me-LabyrinthDash.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\obj\Debug\05.Me-LabyrinthDash.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-2015-05-21\05.Me-LabyrinthDash\obj\Debug\05.Me-LabyrinthDash.pdb

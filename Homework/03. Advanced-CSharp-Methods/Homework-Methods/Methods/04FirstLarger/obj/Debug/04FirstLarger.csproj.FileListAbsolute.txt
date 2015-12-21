@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\bin\Debug\04FirstLarger.exe.config
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\bin\Debug\04FirstLarger.exe
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\bin\Debug\04FirstLarger.pdb
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\obj\Debug\04FirstLarger.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\obj\Debug\04FirstLarger.exe
+C:\Users\User\Desktop\Practice\Methods\04FirstLarger\obj\Debug\04FirstLarger.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\04FirstLarger\bin\Debug\04FirstLarger.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\04FirstLarger\obj\Debug\04FirstLarger.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\Methods\04FirstLarger\obj\Debug\04FirstLarger.pdb

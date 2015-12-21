@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\1. Linear Data Structures - Arrays, Lists, Queues, Stacks\Exercise-ArrListsStacQue\02.Join Lists\bin\Debug\02.Join Lists.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\1. Linear Data Structures - Arrays, Lists, Queues, Stacks\Exercise-ArrListsStacQue\02.Join Lists\bin\Debug\02.Join Lists.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\1. Linear Data Structures - Arrays, Lists, Queues, Stacks\Exercise-ArrListsStacQue\02.Join Lists\bin\Debug\02.Join Lists.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\1. Linear Data Structures - Arrays, Lists, Queues, Stacks\Exercise-ArrListsStacQue\02.Join Lists\obj\Debug\02.Join Lists.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\1. Linear Data Structures - Arrays, Lists, Queues, Stacks\Exercise-ArrListsStacQue\02.Join Lists\obj\Debug\02.Join Lists.pdb

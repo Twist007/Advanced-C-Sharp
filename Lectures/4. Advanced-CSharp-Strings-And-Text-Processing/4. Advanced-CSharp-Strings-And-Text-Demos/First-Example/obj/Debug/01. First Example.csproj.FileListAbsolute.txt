@@ -1,0 +1,4 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\First-Example\bin\Debug\FirsExample.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\First-Example\bin\Debug\FirsExample.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\First-Example\obj\Debug\FirsExample.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\4. Advanced-CSharp-Strings-And-Text-Processing\4. Advanced-CSharp-Strings-And-Text-Demos\First-Example\obj\Debug\FirsExample.pdb

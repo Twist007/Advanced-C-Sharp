@@ -1,0 +1,9 @@
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

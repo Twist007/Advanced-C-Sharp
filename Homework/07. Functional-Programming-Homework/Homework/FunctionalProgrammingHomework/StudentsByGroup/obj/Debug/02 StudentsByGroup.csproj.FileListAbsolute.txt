@@ -1,0 +1,8 @@
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.exe.config
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.exe
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\StudentsByGroup.pdb
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\ClassStudents.dll
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\bin\Debug\ClassStudents.pdb
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\02 StudentsByGroup.csprojResolveAssemblyReference.cache
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.exe
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\StudentsByGroup\obj\Debug\StudentsByGroup.pdb

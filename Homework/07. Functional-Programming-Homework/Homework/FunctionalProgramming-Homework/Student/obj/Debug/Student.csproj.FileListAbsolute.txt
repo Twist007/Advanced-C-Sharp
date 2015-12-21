@@ -1,0 +1,1 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FunctionalProgramming-Homework\Student\bin\Debug\Student.exe.config

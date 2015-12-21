@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\bin\Debug\Problem7.GenericArraySort.exe.config
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\obj\Debug\Problem7.GenericArraySort.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\bin\Debug\Problem7.GenericArraySort.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\bin\Debug\Problem7.GenericArraySort.pdb
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\obj\Debug\Problem7.GenericArraySort.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem7.GenericArraySort\obj\Debug\Problem7.GenericArraySort.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem7.GenericArraySort\bin\Debug\Problem7.GenericArraySort.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem7.GenericArraySort\obj\Debug\Problem7.GenericArraySort.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem7.GenericArraySort\obj\Debug\Problem7.GenericArraySort.pdb

@@ -1,0 +1,9 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\bin\Debug\03.Maximal-Sum.exe.config
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\obj\Debug\03.Maximal-Sum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\bin\Debug\03.Maximal-Sum.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\bin\Debug\03.Maximal-Sum.pdb
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\obj\Debug\03.Maximal-Sum.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\obj\Debug\03.Maximal-Sum.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\bin\Debug\03.Maximal-Sum.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\obj\Debug\03.Maximal-Sum.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\03.Maximal-Sum\obj\Debug\03.Maximal-Sum.pdb

@@ -1,0 +1,5 @@
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\bin\Debug\ClassStudents.dll
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\bin\Debug\ClassStudents.pdb
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\obj\Debug\ClassStudents.csprojResolveAssemblyReference.cache
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\obj\Debug\ClassStudents.dll
+c:\users\7x3 d3a7h\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\obj\Debug\ClassStudents.pdb

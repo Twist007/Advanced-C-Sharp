@@ -1,0 +1,9 @@
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\bin\Debug\8.exe.config
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\bin\Debug\8.exe
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\bin\Debug\8.pdb
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\obj\Debug\8.csprojResolveAssemblyReference.cache
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\obj\Debug\8.exe
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\8\obj\Debug\8.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\8\bin\Debug\8.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\8\obj\Debug\8.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\8\obj\Debug\8.pdb

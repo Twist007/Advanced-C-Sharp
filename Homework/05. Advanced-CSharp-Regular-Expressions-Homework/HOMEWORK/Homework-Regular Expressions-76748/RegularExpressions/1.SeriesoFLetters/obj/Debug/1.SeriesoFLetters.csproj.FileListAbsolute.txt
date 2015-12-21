@@ -1,0 +1,6 @@
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\bin\Debug\1.SeriesoFLetters.exe.config
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\bin\Debug\1.SeriesoFLetters.exe
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\bin\Debug\1.SeriesoFLetters.pdb
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\obj\Debug\1.SeriesoFLetters.csprojResolveAssemblyReference.cache
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\obj\Debug\1.SeriesoFLetters.exe
+D:\CSharp\Advanced\RegularExpressions\1.SeriesoFLetters\obj\Debug\1.SeriesoFLetters.pdb

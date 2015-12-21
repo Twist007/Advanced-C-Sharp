@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\bin\Debug\03-Extract-Emails.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\bin\Debug\03-Extract-Emails.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\bin\Debug\03-Extract-Emails.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\obj\Debug\03-Extract-Emails.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\obj\Debug\03-Extract-Emails.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\05. Advanced-CSharp-Regular-Expressions-Homework\RegularExpressions\03-Extract-Emails\obj\Debug\03-Extract-Emails.pdb

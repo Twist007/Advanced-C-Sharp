@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\JustSnake\JustSnake\bin\Debug\JustSnake.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\JustSnake\JustSnake\bin\Debug\JustSnake.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\JustSnake\JustSnake\obj\x86\Debug\JustSnake.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\JustSnake\JustSnake\obj\x86\Debug\JustSnake.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\game\JustSnake\JustSnake\obj\x86\Debug\JustSnake.pdb

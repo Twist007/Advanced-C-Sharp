@@ -1,0 +1,1 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced-CSharp-Exam-2015-05-31\01.CommandInterpreter\bin\Debug\01.CommandInterpreter.exe.config

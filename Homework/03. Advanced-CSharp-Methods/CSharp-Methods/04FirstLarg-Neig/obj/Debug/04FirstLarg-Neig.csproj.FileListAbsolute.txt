@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\04FirstLarg-Neig\bin\Debug\04FirstLarg-Neig.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\04FirstLarg-Neig\bin\Debug\04FirstLarg-Neig.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\04FirstLarg-Neig\bin\Debug\04FirstLarg-Neig.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\04FirstLarg-Neig\obj\Debug\04FirstLarg-Neig.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\04FirstLarg-Neig\obj\Debug\04FirstLarg-Neig.pdb

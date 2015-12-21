@@ -1,0 +1,11 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\bin\Debug\WeakStudens.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\bin\Debug\WeakStudens.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\bin\Debug\WeakStudens.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\obj\Debug\WeakStudens.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\obj\Debug\WeakStudens.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\WeakStudens\obj\Debug\WeakStudens.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\WeakStudens\bin\Debug\WeakStudens.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\WeakStudens\obj\Debug\WeakStudens.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\WeakStudens\obj\Debug\WeakStudens.pdb

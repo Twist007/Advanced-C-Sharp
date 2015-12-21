@@ -1,0 +1,12 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\bin\Debug\Pr01OddLines.exe.config
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\bin\Debug\Pr01OddLines.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\bin\Debug\Pr01OddLines.pdb
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.pdb
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr01OddLines\bin\Debug\Pr01OddLines.exe.config
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.exe
+C:\Users\tilchev\Desktop\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr01OddLines\bin\Debug\Pr01OddLines.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr01OddLines\obj\Debug\Pr01OddLines.pdb

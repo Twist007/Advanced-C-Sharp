@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\bin\Debug\05-ReverseNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\bin\Debug\05-ReverseNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\bin\Debug\05-ReverseNumber.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\obj\Debug\05-ReverseNumber.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\obj\Debug\05-ReverseNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\05-ReverseNumber\obj\Debug\05-ReverseNumber.pdb

@@ -1,0 +1,1 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\StringsAndTextProcessing\o7LettersChangeNum\bin\Debug\o7LettersChangeNum.exe.config

@@ -1,0 +1,4 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Temperature\bin\Debug\Temperature.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Temperature\bin\Debug\Temperature.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Temperature\obj\Debug\Temperature.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lectures\2. Advanced-CSharp-Methods\2. Advanced-CSharp-Methods-Demos\Temperature\obj\Debug\Temperature.pdb

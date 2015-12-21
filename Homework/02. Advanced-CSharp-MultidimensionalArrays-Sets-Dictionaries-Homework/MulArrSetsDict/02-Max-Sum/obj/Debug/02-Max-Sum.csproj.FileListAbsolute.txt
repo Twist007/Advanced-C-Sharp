@@ -1,0 +1,5 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\02-Max-Sum\bin\Debug\02-Max-Sum.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\02-Max-Sum\bin\Debug\02-Max-Sum.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\02-Max-Sum\bin\Debug\02-Max-Sum.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\02-Max-Sum\obj\Debug\02-Max-Sum.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\MulArrSetsDict\02-Max-Sum\obj\Debug\02-Max-Sum.pdb

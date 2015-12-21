@@ -1,0 +1,2 @@
+c:\users\kristina\documents\visual studio 2013\Projects\Domashno2\6\bin\Debug\6.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\Domashno2\6\bin\Debug\6.exe.config

@@ -1,0 +1,8 @@
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\06Palindromes\bin\Debug\06Palindromes.exe.config
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\06Palindromes\bin\Debug\06Palindromes.exe
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\06Palindromes\bin\Debug\06Palindromes.pdb
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\06Palindromes\obj\Debug\06Palindromes.exe
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\06Palindromes\obj\Debug\06Palindromes.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\06Palindromes\bin\Debug\06Palindromes.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\06Palindromes\obj\Debug\06Palindromes.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\06Palindromes\obj\Debug\06Palindromes.pdb

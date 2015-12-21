@@ -1,0 +1,9 @@
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\bin\Debug\Problem1.BiggerNumber.exe.config
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\obj\Debug\Problem1.BiggerNumber.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\bin\Debug\Problem1.BiggerNumber.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\bin\Debug\Problem1.BiggerNumber.pdb
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\obj\Debug\Problem1.BiggerNumber.exe
+C:\Users\pc1\Desktop\HomeworkMethods\Problem1.BiggerNumber\obj\Debug\Problem1.BiggerNumber.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem1.BiggerNumber\bin\Debug\Problem1.BiggerNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem1.BiggerNumber\obj\Debug\Problem1.BiggerNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\HomeworkMethods\Problem1.BiggerNumber\obj\Debug\Problem1.BiggerNumber.pdb

@@ -1,0 +1,9 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\bin\Debug\Pr04CopyBinaryFile.exe.config
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\bin\Debug\Pr04CopyBinaryFile.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\bin\Debug\Pr04CopyBinaryFile.pdb
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\obj\Debug\Pr04CopyBinaryFile.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\obj\Debug\Pr04CopyBinaryFile.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\obj\Debug\Pr04CopyBinaryFile.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\bin\Debug\Pr04CopyBinaryFile.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\obj\Debug\Pr04CopyBinaryFile.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr04CopyBinaryFile\obj\Debug\Pr04CopyBinaryFile.pdb

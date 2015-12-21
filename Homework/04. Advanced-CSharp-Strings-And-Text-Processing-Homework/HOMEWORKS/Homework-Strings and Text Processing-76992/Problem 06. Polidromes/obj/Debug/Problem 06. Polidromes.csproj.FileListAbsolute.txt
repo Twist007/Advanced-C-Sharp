@@ -1,0 +1,9 @@
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\bin\Debug\Problem_06.Polidromes.exe.config
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\bin\Debug\Problem_06.Polidromes.exe
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\bin\Debug\Problem_06.Polidromes.pdb
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\obj\Debug\Problem 06. Polidromes.csprojResolveAssemblyReference.cache
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\obj\Debug\Problem_06.Polidromes.exe
+D:\Documents\Programing\Fundamental Level\Homeworks\Homework 04 - Strings and Text Processing\Problem 06. Polidromes\obj\Debug\Problem_06.Polidromes.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 06. Polidromes\bin\Debug\Problem_06.Polidromes.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 06. Polidromes\obj\Debug\Problem_06.Polidromes.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76992\Problem 06. Polidromes\obj\Debug\Problem_06.Polidromes.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\bin\Debug\02.SieveOfEratosthenes.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Lab\Advanced C# Algorithms Lab\AlgorithmsLab\02.SieveOfEratosthenes\obj\Debug\02.SieveOfEratosthenes.pdb

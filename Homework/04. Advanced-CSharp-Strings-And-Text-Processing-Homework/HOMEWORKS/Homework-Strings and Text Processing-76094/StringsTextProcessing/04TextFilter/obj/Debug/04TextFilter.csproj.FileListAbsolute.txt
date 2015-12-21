@@ -1,0 +1,8 @@
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\04TextFilter\bin\Debug\04TextFilter.exe.config
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\04TextFilter\bin\Debug\04TextFilter.exe
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\04TextFilter\bin\Debug\04TextFilter.pdb
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\04TextFilter\obj\Debug\04TextFilter.exe
+k:\drive\документи\visual studio 2015\Projects\StringsTextProcessing\04TextFilter\obj\Debug\04TextFilter.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\04TextFilter\bin\Debug\04TextFilter.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\04TextFilter\obj\Debug\04TextFilter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\04. Advanced-CSharp-Strings-And-Text-Processing-Homework\HOMEWORKS\Homework-Strings and Text Processing-76094\StringsTextProcessing\04TextFilter\obj\Debug\04TextFilter.pdb

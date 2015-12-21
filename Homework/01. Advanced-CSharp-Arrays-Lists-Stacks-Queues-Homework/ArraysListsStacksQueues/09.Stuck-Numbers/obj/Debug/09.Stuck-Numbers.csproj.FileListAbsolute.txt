@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\bin\Debug\09.Stuck-Numbers.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\bin\Debug\09.Stuck-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\bin\Debug\09.Stuck-Numbers.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\obj\Debug\09.Stuck-Numbers.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\obj\Debug\09.Stuck-Numbers.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\1. Advanced-CSharp-Arrays-Lists-Stacks-Queues-Homework\ArraysListsStacksQueues\09.Stuck-Numbers\obj\Debug\09.Stuck-Numbers.pdb

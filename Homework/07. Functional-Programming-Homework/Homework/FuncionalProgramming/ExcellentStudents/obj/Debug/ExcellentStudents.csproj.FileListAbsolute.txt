@@ -1,0 +1,11 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\bin\Debug\ExcellentStudents.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\bin\Debug\ExcellentStudents.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\bin\Debug\ExcellentStudents.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\obj\Debug\ExcellentStudents.csprojResolveAssemblyReference.cache
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\obj\Debug\ExcellentStudents.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\ExcellentStudents\obj\Debug\ExcellentStudents.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\ExcellentStudents\bin\Debug\ExcellentStudents.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\ExcellentStudents\obj\Debug\ExcellentStudents.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\ExcellentStudents\obj\Debug\ExcellentStudents.pdb

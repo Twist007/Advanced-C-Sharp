@@ -1,0 +1,9 @@
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\bin\Debug\05.ReverseNumber.pdb
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\obj\Debug\05.ReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+c:\users\sirius\documents\visual studio 2015\Projects\MethodsHomework\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\05.ReverseNumber\bin\Debug\05.ReverseNumber.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\05.ReverseNumber\obj\Debug\05.ReverseNumber.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework-Methods\MethodsHomework\05.ReverseNumber\obj\Debug\05.ReverseNumber.pdb

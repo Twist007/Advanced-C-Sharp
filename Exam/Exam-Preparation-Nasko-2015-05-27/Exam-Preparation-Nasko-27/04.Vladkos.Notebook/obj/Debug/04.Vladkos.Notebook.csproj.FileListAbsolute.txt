@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\bin\Debug\04.Vladkos.Notebook.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\bin\Debug\04.Vladkos.Notebook.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\bin\Debug\04.Vladkos.Notebook.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\obj\Debug\04.Vladkos.Notebook.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\obj\Debug\04.Vladkos.Notebook.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\04.Vladkos.Notebook\obj\Debug\04.Vladkos.Notebook.pdb

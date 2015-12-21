@@ -1,0 +1,1 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\StreamsAndFiles\05-Slicing-File\bin\Debug\05-Slicing-File.exe.config

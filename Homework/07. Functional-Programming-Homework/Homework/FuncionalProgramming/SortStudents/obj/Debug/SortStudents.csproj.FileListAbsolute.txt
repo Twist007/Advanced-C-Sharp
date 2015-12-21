@@ -1,0 +1,10 @@
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\bin\Debug\SortStudents.exe.config
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\bin\Debug\SortStudents.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\bin\Debug\SortStudents.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\bin\Debug\ClassStudent.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\bin\Debug\ClassStudent.pdb
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\obj\Debug\SortStudents.exe
+c:\users\aboveall\documents\visual studio 2013\Projects\FuncionalProgramming\SortStudents\obj\Debug\SortStudents.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\SortStudents\bin\Debug\SortStudents.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\SortStudents\obj\Debug\SortStudents.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\07. Functional-Programming-Homework\Homework\FuncionalProgramming\SortStudents\obj\Debug\SortStudents.pdb

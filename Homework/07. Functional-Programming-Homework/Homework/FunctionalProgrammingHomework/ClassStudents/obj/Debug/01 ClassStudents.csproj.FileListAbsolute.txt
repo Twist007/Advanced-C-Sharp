@@ -1,0 +1,4 @@
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\bin\Debug\ClassStudents.dll
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\bin\Debug\ClassStudents.pdb
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\obj\Debug\ClassStudents.dll
+C:\Users\7x3 D3A7H\documents\visual studio 2015\Projects\FunctionalProgrammingHomework\ClassStudents\obj\Debug\ClassStudents.pdb

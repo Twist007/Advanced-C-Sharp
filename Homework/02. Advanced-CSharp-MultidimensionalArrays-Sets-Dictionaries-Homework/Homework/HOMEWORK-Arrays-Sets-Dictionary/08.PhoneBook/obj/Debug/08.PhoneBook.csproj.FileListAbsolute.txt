@@ -1,0 +1,2 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\08.PhoneBook\bin\Debug\08.PhoneBook.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\08.PhoneBook\bin\Debug\08.PhoneBook.exe.config

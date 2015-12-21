@@ -1,0 +1,9 @@
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\bin\Debug\05.Sequence in Matrix.exe.config
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\bin\Debug\05.Sequence in Matrix.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\bin\Debug\05.Sequence in Matrix.pdb
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\obj\Debug\05.Sequence in Matrix.csprojResolveAssemblyReference.cache
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\obj\Debug\05.Sequence in Matrix.exe
+D:\SoftUni\Fundamentals\Homeworks\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\obj\Debug\05.Sequence in Matrix.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\bin\Debug\05.Sequence in Matrix.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\obj\Debug\05.Sequence in Matrix.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\Homework\HOMEWORK-Arrays-Sets-Dictionary\05.Sequence in Matrix\obj\Debug\05.Sequence in Matrix.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\bin\Debug\03.Rage-Quit.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\bin\Debug\03.Rage-Quit.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\bin\Debug\03.Rage-Quit.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\obj\Debug\03.Rage-Quit.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\obj\Debug\03.Rage-Quit.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\03.Rage-Quit\obj\Debug\03.Rage-Quit.pdb

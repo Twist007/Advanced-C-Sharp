@@ -1,0 +1,9 @@
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\bin\Debug\Pr03WordCount.exe.config
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\bin\Debug\Pr03WordCount.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\bin\Debug\Pr03WordCount.pdb
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\obj\Debug\Pr03WordCount.csprojResolveAssemblyReference.cache
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\obj\Debug\Pr03WordCount.exe
+D:\Workspace\C#\ACSharpStreamsAndFilesHomework\Pr03WordCount\obj\Debug\Pr03WordCount.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr03WordCount\bin\Debug\Pr03WordCount.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr03WordCount\obj\Debug\Pr03WordCount.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\06. Advanced-CSharp-Streams-And-Files-Homework\HOMEWORK\ACSharpStreamsAndFilesHomework\Pr03WordCount\obj\Debug\Pr03WordCount.pdb

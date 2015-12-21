@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\bin\Debug\03Larg-Neighbour.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\bin\Debug\03Larg-Neighbour.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\bin\Debug\03Larg-Neighbour.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\obj\Debug\03Larg-Neighbour.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\obj\Debug\03Larg-Neighbour.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Homework\02. Advanced-CSharp-Methods-MultidimensionalArrays-Sets-Dictionaries-Homework\CSharp-Methods\03Larg-Neighbour\obj\Debug\03Larg-Neighbour.pdb

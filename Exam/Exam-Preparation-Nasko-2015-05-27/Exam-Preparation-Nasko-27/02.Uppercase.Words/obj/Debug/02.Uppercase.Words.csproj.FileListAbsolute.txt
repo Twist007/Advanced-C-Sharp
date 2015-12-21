@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\bin\Debug\02.Uppercase.Words.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\bin\Debug\02.Uppercase.Words.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\bin\Debug\02.Uppercase.Words.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\obj\Debug\02.Uppercase.Words.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\obj\Debug\02.Uppercase.Words.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Exam-Preparation-Nasko-2015-05-27\Exam-Preparation-Nasko-27\02.Uppercase.Words\obj\Debug\02.Uppercase.Words.csprojResolveAssemblyReference.cache

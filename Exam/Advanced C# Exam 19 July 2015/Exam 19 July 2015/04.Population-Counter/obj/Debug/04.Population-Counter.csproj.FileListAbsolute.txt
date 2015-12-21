@@ -1,0 +1,6 @@
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\bin\Debug\04.Population-Counter.exe.config
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\bin\Debug\04.Population-Counter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\bin\Debug\04.Population-Counter.pdb
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\obj\Debug\04.Population-Counter.csprojResolveAssemblyReference.cache
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\obj\Debug\04.Population-Counter.exe
+E:\SoftUni\1.Fundamental Level\Advanced C#\Exam\Advanced C# Exam 19 July 2015\Exam 19 July 2015\04.Population-Counter\obj\Debug\04.Population-Counter.pdb
