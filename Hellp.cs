@@ -23,6 +23,8 @@ Thread.CurrentThread.CurrentCulture = CultureInfo.InvariantCulture;
 string[] numbersAsStrings = inputLine.Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries);
 <<<
 int[] arr = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();  
+
+ List<int> numbers = new List<int>(Array.ConvertAll(input.Split(' '), int.Parse));
 >>>
 int[] arr = { 1, 2, 3 };
 arr.ToList().ForEach(a => Console.WriteLine(a));
